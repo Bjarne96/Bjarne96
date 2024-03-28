@@ -14,9 +14,11 @@
 
 <h2></h2>
 <h3> Web-Tech-Stack</h3>
+<div style="display: flex;flex-direction: row;justify-content: flex-start;align-items: center;">
 <image alt="JavaScript" src="https://img.shields.io/badge/JavaScript-caa932?style=for-the-badge&logo=javascript&logoColor=white" />
 <image style="display:inline-block" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <image alt="Webpack" src="https://img.shields.io/badge/Webpack-F24E1E?style=for-the-badge&logo=webpack&logoColor=white" />
+</div>
 <br><br>
 <image alt="React.js" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <image alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
