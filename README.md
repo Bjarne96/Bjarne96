@@ -1,4 +1,4 @@
-h2> Hey, I'm Bjarne 🐱‍💻</h2>
+<h2> Hey, I'm Bjarne 🐱‍💻</h2>
 
 <h3> &nbsp;About Me </h3>
 
