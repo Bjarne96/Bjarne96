@@ -9,9 +9,10 @@
 <h2></h2>
 <h3> &nbsp;My Projects </h3>
 
-- Developed a website for learning JavaScript at a beginner level as part of a founding of the university of hamburg. Check out the <a href="https://github.com/Bjarne96/learn-with-karel">repository</a> here.
-- Designed and programmed a performance-optimized website for e-commerce purposes. Check the <a href="https://tiefschlafen.de/">website</a> or the <a href="https://github.com/Bjarne96/webbase">repository</a>.
+- Created a JavaScript learning site for beginners of a founding at the University of Hamburg. See the <a href="https://github.com/Bjarne96/learn-with-karel">repository</a> here.
+- Designed and programmed a performance-optimized website for e-commerce purposes. Check the <a href="https://tiefschlafen.netlify.app/">tiefschlafen website</a> or the <a href="https://github.com/Bjarne96/webbase">repository</a>.
 - Programmed and hosted a CMS system for an e-commerce website, divided into a <a href="https://github.com/Bjarne96/front-cms">CMS-Frontend</a>, <a href="https://github.com/Bjarne96/api-cms">REST API</a> and <a href="https://github.com/Bjarne96/website-cms">website</a> repository.
+-  Need a website? Check out <a href="https://abbgemacht.de/">abbgemacht.de</a>
 
 <h2></h2>
 <h3> Web-Tech-Stack</h3>
