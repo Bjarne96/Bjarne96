@@ -4,7 +4,7 @@
 
 - Developing software solutions for the web is my drive.
 - With a background in various web projects, I am enthusiastic about learning more.
-- At the University of Hamburg, I studied Software-System-Development.
+- I like being outdoors, riding my bike, and spending time with people and animals. I believe everyone should be included and treated with respect.
 <h2></h2>
 <h3> &nbsp;My Projects </h3>
 
